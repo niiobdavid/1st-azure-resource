@@ -3,8 +3,10 @@
 </p>
 
 <h1>Creating Our First Resource</h1>
-This tutorial shows how to create Storage Account within a Resource Group and upload a text file to the Storage account 
-Follow along with this  .
+
+This tutorial shows how to create Storage Account within a Resource Group and upload a text file to the Storage account. 
+Follow along with this [Lab Checklist](https://docs.google.com/document/d/1r0k_8QN8J3wEgUwaPXOGoKI5hkw9cpXhZVB-tLcAJJE/edit?usp=sharing)
+
 <br />
 
 <img src="https://i.imgur.com/IsJEidA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
