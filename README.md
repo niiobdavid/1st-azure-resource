@@ -12,7 +12,7 @@ Follow along with this [Lab Checklist](https://docs.google.com/document/d/1r0k_8
 <img src="https://i.imgur.com/IsJEidA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Create Resources in Azure](https://www.youtube.com)
+- ### [YouTube: How To Create Resources in Azure](https://youtu.be/gWKYfyPDzOs)
 
 <h2>Environments and Technologies Used</h2>
 
